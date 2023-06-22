@@ -1,0 +1,3 @@
+key,type,encoding,value
+nvs_store,namespace,,
+deviceid,data,string,SP-AA-00002
